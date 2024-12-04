@@ -1,4 +1,7 @@
-# programacio_II
-Repository dedicated to save and share material of the subject Programació II taught in Computer Engineering at UIB.
+## Authors
+Developed by [Harpo Joan](https://github.com/helveticka) & Francesc Vinent
 
-In this repository I save all of the files related to the final project of the subject Programació II.
+## License
+This repository is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Copyright (c) 2024 Harpo Joan & Francesc Vinent
+
